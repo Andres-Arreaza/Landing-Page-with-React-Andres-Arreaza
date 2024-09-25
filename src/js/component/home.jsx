@@ -1,5 +1,4 @@
 import React from "react";
-
 import { Nav } from '../component/nav.jsx';
 import { Jumbotrom } from '../component/jumbotrom.jsx';
 import { Card } from '../component/card.jsx';

@@ -1,7 +1,7 @@
 import React from "react";
 
 export const Nav = () => {
-  let textos = {
+  const textos = {
     titulo: "Start Bootstrap",
     link1: "Home",
     link2: "About",
