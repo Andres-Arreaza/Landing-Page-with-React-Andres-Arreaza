@@ -3,7 +3,7 @@ import rigoImage from '../../img/rigo-baby.jpg';
 
 export const Card = () => {
   return (
-    <div className="card">
+    <div className="card text-center">
       <img src={rigoImage} className="card-img-top" alt="..." />
       <div className="card-body">
         <h5 className="card-title">Card title</h5>

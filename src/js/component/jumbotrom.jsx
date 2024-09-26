@@ -7,7 +7,7 @@ export const Jumbotrom = () => {
         button: "Call to action!"
       }
     return (
-        <div class="p-5 mb-4 bg-light rounded-3">
+        <div class="p-5 mb-4 bg-light rounded-3 ">
             <div class="container-fluid py-5 ">
                 <h3 class="display-5 fw-bold text-start ">{textos.titulo}</h3>
                 <p class="col-md-12 fs-4 text-start w-100">{textos.parrafo}</p>

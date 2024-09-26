@@ -9,7 +9,7 @@ const Home = () => {
 	return (
 		<div>
 			<Nav />
-			<div className="container">
+			<div className="container-fluid">
 				<Jumbotrom />
 				<div className="containerCards">
 					<Card />
