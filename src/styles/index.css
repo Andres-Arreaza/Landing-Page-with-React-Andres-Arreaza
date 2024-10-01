@@ -1,17 +1,3 @@
-.container{
-    width: 100%;
-    background: red;
-}
-
-.containerCards{
-    display: flex;
-    margin-bottom: 2rem;
-}
-
-.card{
-    width: 25rem;
-    margin: 5px
-}
 a{
     text-decoration: none;
 }

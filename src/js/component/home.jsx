@@ -9,13 +9,15 @@ const Home = () => {
 	return (
 		<div>
 			<Nav />
-			<div className="container-fluid">
+			<div className="container">
 				<Jumbotrom />
-				<div className="containerCards">
-					<Card />
-					<Card />
-					<Card />
-					<Card />
+				<div className="container my-5">
+					<div className="row">
+						<Card />
+						<Card />
+						<Card />
+						<Card />
+					</div>
 				</div>
 			</div>	
 			<Footer />	
